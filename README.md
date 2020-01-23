@@ -1,4 +1,4 @@
-This project is and e-commerce application using Angular 8 and Angular Material.
+This project is an e-commerce application using Angular 8 and Angular Material.
 This project contains the following
 
 1. How to mock a REST API server that uses fake data from a JSON file
